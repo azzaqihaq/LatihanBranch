@@ -10,5 +10,13 @@ class MainActivity : AppCompatActivity() {
 
 
         println("ini daffa")
+        println("ini daffa2")
+        println("ini daffa2")
+        println("ini daffa2")
+        println("ini daffa2")
+        println("ini daffa2")
+        println("ini daffa2")
+
+
     }
 }
